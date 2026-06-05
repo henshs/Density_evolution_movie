@@ -1,4 +1,4 @@
-# Density_evolution_movie-
+# Density_evolution_movie
 This script generates 2D snapshots of Cactus-based simulations and makes movie of the density evolutions.
 
 This repository contains a high-performance Python pipeline tool to visualize 2D Matter Density (ρ) evolution profiles from Einstein Toolkit/Cactus simulations. Leveraging the `kuibit` physics analysis framework, it extracts data, transforms grid architectures, and uses parallel workers to render fluid dynamics time-steps into a shareable `.mp4` video format.
